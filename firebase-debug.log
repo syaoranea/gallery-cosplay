@@ -1,0 +1,25 @@
+[debug] [2023-12-03T12:54:34.281Z] ----------------------------------------------------------------------
+[debug] [2023-12-03T12:54:34.283Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Eduardo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-03T12:54:34.284Z] CLI Version:   12.9.1
+[debug] [2023-12-03T12:54:34.284Z] Platform:      win32
+[debug] [2023-12-03T12:54:34.284Z] Node Version:  v18.16.1
+[debug] [2023-12-03T12:54:34.285Z] Time:          Sun Dec 03 2023 09:54:34 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-03T12:54:34.285Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-03T12:54:34.361Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-03T12:54:34.362Z] > authorizing via signed-in user (eduardo.s.rocha87@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Projetos\gallery-cosplay
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
